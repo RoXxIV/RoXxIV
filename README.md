@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
-<h3 align="center">VueJS / NodeJS Junior developer from France</h3>
-
-- 🔭 I’m currently working on StayColdv3 [[demo]](https://demoevan.herokuapp.com/)
-
-- 🌱 I’m currently learning **NodeJs**
+<h3 align="center">VueJS Junior developer from France</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
