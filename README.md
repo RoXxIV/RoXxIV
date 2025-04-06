@@ -58,7 +58,8 @@
 
   <!-- ESP32 (via Espressif logo) -->
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Espressif_Logo.svg/512px-Espressif_Logo.svg.png" alt="esp32" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Espressif_Logo.svg/512px-Espressif_Logo.svg.png" alt="esp32" width="40" height="40" style="object-fit: contain;"/>
+
   </a>
 
   <!-- Figma -->
