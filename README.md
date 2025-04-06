@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
 <h3 align="center">A junior web developer from France with a deep passion for JavaScript</h3>
-<h3>🔍 Self-taught and always curious, I like to consider myself a "Swiss Army Knife" in the tech world, dabbling in various areas and constantly broadening my horizon.</h3>
+<h3>💻 Self-taught web developer, driven by curiosity and a desire to understand what’s happening under the hood.
+🔧 Along the way, I dove into the world of IoT and embedded systems, where I truly enjoy creating, experimenting, and tinkering with ESP32s.
+✨ I love connecting ideas—whether it's in a browser or on a breadboard.</h3>
 <h3>📚 A proud FreeCodeCamp lover, I've honed my skills through its invaluable resources.</h3>
 <h3>🤝 Open to collaboration and eager to take on new challenges. Let's connect and build something great!</h3>
 <h3 align="left">Connect with me:</h3>
