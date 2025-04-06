@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
-<h3 align="center">A junior web developer from France with a deep passion for JavaScript</h3>
-<h3>💻 Self-taught web developer, driven by curiosity and a desire to understand what’s happening under the hood.
-🔧 Along the way, I dove into the world of IoT and embedded systems, where I truly enjoy creating, experimenting, and tinkering with ESP32s.
-✨ I love connecting ideas—whether it's in a browser or on a breadboard.</h3>
-<h3>📚 A proud FreeCodeCamp lover, I've honed my skills through its invaluable resources.</h3>
-<h3>🤝 Open to collaboration and eager to take on new challenges. Let's connect and build something great!</h3>
+<h3 align="center">A developer from France with a deep passion for JavaScript</h3>
+
+<p>💻 Self-taught web developer, driven by curiosity and a desire to understand what’s happening under the hood.</p>
+<p>🔧 Along the way, I dove into the world of IoT and embedded systems, where I truly enjoy creating, experimenting, and tinkering with ESP32s.</p>
+<p>✨ I love connecting ideas—whether it's in a browser or on a breadboard.</p>
+
+<p>📚 I’m a big fan of FreeCodeCamp, where I’ve sharpened my skills and deepened my love for clean code and continuous learning.</p>
+<p>🤝 Open to collaboration and always eager for new challenges. Let’s connect and build something awesome together!</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/roxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="roxx" height="30" width="40" /></a>
