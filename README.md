@@ -47,7 +47,7 @@
 
   <!-- Arduino -->
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" alt="arduino" width="40" height="40" />
   </a>
 
   <!-- Figma -->
