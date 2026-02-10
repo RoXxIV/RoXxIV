@@ -45,14 +45,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
 
-  <!-- ESP32 (via Espressif logo) -->
-  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Espressif_Logo.svg"
-     alt="Espressif (ESP32)"
-     width="40"
-     height="40"/>
-
-
+  <!-- Arduino -->
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">      
   </a>
 
   <!-- Figma -->
