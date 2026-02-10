@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
 <h3 align="center">A developer from France with a deep passion for JavaScript</h3>
 
-<p>💻 Self-taught web developer, driven by curiosity and a desire to understand what’s happening under the hood.</p>
+<p>💻 Self-taught web developer / iot, driven by curiosity and a desire to understand what’s happening under the hood.</p>
 <p>🔧 Along the way, I dove into the world of IoT and embedded systems, where I truly enjoy creating, experimenting, and tinkering with ESP32s.</p>
 <p>✨ I love connecting ideas—whether it's in a browser or on a breadboard.</p>
 
